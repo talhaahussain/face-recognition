@@ -4,7 +4,7 @@ import uuid
 import cv2
 
 IMAGES_PATH = os.path.join('data', 'images')
-number_images = 30
+number_images = 120
 
 cap = cv2.VideoCapture(0)
 for imgnum in range(number_images):
