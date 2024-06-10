@@ -4,7 +4,7 @@ A command line interface tool for detecting faces and facial features, using Ope
 
 ### Usage
 
-Run with
+Run with:
 ```bash
 python face-recognition.py
 ```
